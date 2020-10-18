@@ -7,3 +7,4 @@ This research studies automatic price pattern search procedure for bitcoin crypt
 
 This repository supplements the paper by providing the code that was used in the paper to both download the dataset from Coinbase Pro, and for pattern identification. The dataset that was used in the paper is also provided. Therefore, usage of these materials will let you to replicate the results in the paper. Please refer to the paper for further details. The access to the paper can be requested directly from the first author (me) by e-mailing nmil@protonmail.com
 
+Note that the pattern recognition scripts, as uploaded to this repo, are assuming you're running a MySQL server with dataset loaded using Yiming's script. If that is not the case, or you want to simply use the csv file provided, the scripts will need to be rewritten slightly in order to load the csv files instead.
