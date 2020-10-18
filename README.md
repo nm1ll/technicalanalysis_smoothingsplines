@@ -1,6 +1,6 @@
 # Code for article "Identification of technical analysis patterns with smoothing splines for Bitcoin prices"
 
-The article was published in Journal of Applied Statistics.
+This repository is the code used in the following paper: **Miller, N.**, Yang, Y., Bruce, S., Zhang, G. (2019) "Identification of technical analysis patterns with smoothing splines for Bitcoin prices." Journal of Applied Statistics, Vol. 46, Issue 12, 2289-2297. DOI: 10.1080/02664763.2019.1580251
 
 ABSTRACT:
 This research studies automatic price pattern search procedure for bitcoin cryptocurrency based on 1-min price data. To achieve this, search algorithm is proposed based on nonparametric regression method of smoothing splines. We investigate some well-known technical analysis patterns and construct algorithmic trading strategy to evaluate the effectiveness of the patterns. We found that method of smoothing splines for identifying the technical analysis patterns and that strategies based on certain technical analysis patterns yield returns that significantly exceed results of unconditional trading strategies.
